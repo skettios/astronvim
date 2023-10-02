@@ -5,7 +5,7 @@ return {
 
     opts.sources = {
       null_ls.builtins.formatting.clang_format.with {
-        args = { "--style=Microsoft" }
+        args = { "--style=Google" }
       }
     }
 
